@@ -1,10 +1,10 @@
-package com.imenger.designpatterns.createdpatterns.factorypattern.Factory;
+package com.imenger.designpatterns.createdpatterns.factorypattern.factory;
 
 import com.imenger.designpatterns.createdpatterns.common.consts.ShapeEnum;
-import com.imenger.designpatterns.createdpatterns.factorypattern.Entity.Circle;
-import com.imenger.designpatterns.createdpatterns.factorypattern.Entity.Rectangle;
-import com.imenger.designpatterns.createdpatterns.factorypattern.Entity.Square;
-import com.imenger.designpatterns.createdpatterns.factorypattern.Interface.Shape;
+import com.imenger.designpatterns.createdpatterns.factorypattern.entity.Circle;
+import com.imenger.designpatterns.createdpatterns.factorypattern.entity.Rectangle;
+import com.imenger.designpatterns.createdpatterns.factorypattern.entity.Square;
+import com.imenger.designpatterns.createdpatterns.factorypattern.interfaces.Shape;
 
 /**
  * @author lvyimeng

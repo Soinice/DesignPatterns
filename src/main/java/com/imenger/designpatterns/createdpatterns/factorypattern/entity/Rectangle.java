@@ -1,6 +1,6 @@
-package com.imenger.designpatterns.createdpatterns.factorypattern.Entity;
+package com.imenger.designpatterns.createdpatterns.factorypattern.entity;
 
-import com.imenger.designpatterns.createdpatterns.factorypattern.Interface.Shape;
+import com.imenger.designpatterns.createdpatterns.factorypattern.interfaces.Shape;
 
 /**
  * @author lvyimeng

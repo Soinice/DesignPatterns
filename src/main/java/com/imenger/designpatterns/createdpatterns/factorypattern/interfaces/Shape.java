@@ -1,4 +1,4 @@
-package com.imenger.designpatterns.createdpatterns.factorypattern.Interface;
+package com.imenger.designpatterns.createdpatterns.factorypattern.interfaces;
 
 /**
  * @author lvyimeng

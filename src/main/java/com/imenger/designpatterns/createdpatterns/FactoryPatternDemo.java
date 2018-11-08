@@ -1,8 +1,8 @@
 package com.imenger.designpatterns.createdpatterns;
 
 import com.imenger.designpatterns.createdpatterns.common.consts.ShapeEnum;
-import com.imenger.designpatterns.createdpatterns.factorypattern.Factory.ShapeFactory;
-import com.imenger.designpatterns.createdpatterns.factorypattern.Interface.Shape;
+import com.imenger.designpatterns.createdpatterns.factorypattern.factory.ShapeFactory;
+import com.imenger.designpatterns.createdpatterns.factorypattern.interfaces.Shape;
 
 /**
  * @author lvyimeng
